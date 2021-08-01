@@ -4,7 +4,9 @@ Now I am working as a software developer but I very interest about data and mach
 I’m currently learning about data sciense, machine learning an english at Platzi [Profile](https://platzi.com/p/emaatomas/)
 
 ## Contact Me
+Email: tomassergioemanuel@gmail.com
+
 [LinkedIn](https://www.linkedin.com/in/emaatomas)
 
-[Email](tomassergioemanuel@gmail.com)
+
 
